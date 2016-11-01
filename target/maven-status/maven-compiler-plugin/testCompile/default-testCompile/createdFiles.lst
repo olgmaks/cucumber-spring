@@ -1,0 +1,6 @@
+com\epam\cucumber\RunCukesAutoTest.class
+com\epam\cucumber\GreetingServer.class
+com\epam\stepdefs\BaseStepDefinitions.class
+com\epam\cucumber\RunCukes2AutoTest.class
+com\epam\cucumber\RunCukes3AutoTest.class
+com\epam\cucumber\RunCukes1AutoTest.class

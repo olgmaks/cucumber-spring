@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [TestAll]" parallel="tests">
+  <test name="All1" junit="true">
+    <classes>
+      <class name="com.epam.cucumber.RunCukesAutoTest"/>
+    </classes>
+  </test> <!-- All1 -->
+  <test name="All2" junit="true">
+    <classes>
+      <class name="com.epam.cucumber.RunCukes1AutoTest"/>
+    </classes>
+  </test> <!-- All2 -->
+  <test name="All3" junit="true">
+    <classes>
+      <class name="com.epam.cucumber.RunCukes2AutoTest"/>
+    </classes>
+  </test> <!-- All3 -->
+  <test name="All4" junit="true">
+    <classes>
+      <class name="com.epam.cucumber.RunCukes3AutoTest"/>
+    </classes>
+  </test> <!-- All4 -->
+</suite> <!-- Failed suite [TestAll] -->

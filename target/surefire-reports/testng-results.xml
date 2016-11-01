@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="16591" started-at="2016-11-01T07:35:15Z" finished-at="2016-11-01T07:35:32Z">
+    <groups>
+    </groups>
+    <test name="All1" duration-ms="16328" started-at="2016-11-01T07:35:15Z" finished-at="2016-11-01T07:35:32Z">
+    </test> <!-- All1 -->
+    <test name="All3" duration-ms="16511" started-at="2016-11-01T07:35:15Z" finished-at="2016-11-01T07:35:32Z">
+    </test> <!-- All3 -->
+    <test name="All4" duration-ms="16526" started-at="2016-11-01T07:35:15Z" finished-at="2016-11-01T07:35:32Z">
+    </test> <!-- All4 -->
+    <test name="All2" duration-ms="16591" started-at="2016-11-01T07:35:15Z" finished-at="2016-11-01T07:35:32Z">
+    </test> <!-- All2 -->
+  </suite> <!-- TestAll -->
+</testng-results>

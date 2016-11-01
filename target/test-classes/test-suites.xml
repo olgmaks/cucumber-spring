@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestAll"  parallel="tests" thread-count="5" >
+
+    <test name="All1" junit="true">
+        <classes>
+            <class name="com.epam.cucumber.RunCukesAutoTest"/>
+        </classes>
+    </test>
+
+    <test name="All2" junit="true">
+        <classes>
+            <class name="com.epam.cucumber.RunCukes1AutoTest"/>
+        </classes>
+    </test>
+    <test name="All3" junit="true">
+        <classes>
+            <class name="com.epam.cucumber.RunCukes2AutoTest"/>
+        </classes>
+    </test>
+    <test name="All4" junit="true">
+        <classes>
+            <class  name="com.epam.cucumber.RunCukes3AutoTest"/>
+        </classes>
+    </test>
+</suite>
